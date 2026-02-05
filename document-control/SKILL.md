@@ -52,12 +52,12 @@ Activate when ANY of these occur:
 
 | Type | Category | Destination |
 |------|----------|-------------|
-| prompt | midjourney | `C:\Users\bermi\prompts\midjourney\` |
-| prompt | comfyui | `C:\Users\bermi\prompts\comfyui\` |
-| prompt | elevenlabs | `C:\Users\bermi\prompts\elevenlabs\` |
-| character | * | `C:\Users\bermi\Projects\animation-agent\characters\` |
-| workflow | n8n | `C:\Users\bermi\Projects\bermech-n8n-workflows\` |
-| script | * | `C:\Users\bermi\Projects\{project}\scripts\` |
+| prompt | midjourney | `prompts/midjourney/` |
+| prompt | comfyui | `prompts/comfyui/` |
+| prompt | elevenlabs | `prompts/elevenlabs/` |
+| character | * | `Projects/animation-agent/characters/` |
+| workflow | n8n | `Projects/bermech-n8n-workflows/` |
+| script | * | `Projects/{project}/scripts/` |
 
 ## Do NOT
 

@@ -18,7 +18,7 @@ Activate when ANY of these occur:
 
 ## Database Location
 
-`C:\Users\bermi\Projects\animation-agent\characters\CHARACTER_DATABASE.json`
+`Projects/animation-agent/characters/CHARACTER_DATABASE.json`
 
 ## Process
 

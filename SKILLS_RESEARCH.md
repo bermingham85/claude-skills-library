@@ -3,7 +3,7 @@
 ## Official Format (December 2025)
 
 ### Location
-- **Personal skills**: `~/.claude/skills/` (Windows: `C:\Users\bermi\.claude\skills\`)
+- **Personal skills**: `~/.claude/skills/` (Windows: `C:\Users\<user>\.claude\skills\`)
 - **Project skills**: `.claude/skills/` in project root
 - **OpenAI Codex**: `~/.codex/skills/` (same format)
 
